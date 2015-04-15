@@ -1,0 +1,1 @@
+<bounds minlat="50.0672" minlon="8.5511" maxlat="50.1651" maxlon="8.8206"/>
